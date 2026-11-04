@@ -1,4 +1,4 @@
-# PDF Converter
+# PDF Converter (for MS Office)
 
 Convert PDFs to Word, Excel and PowerPoint, with tables rebuilt as real tables.
 Scanned PDFs are handled by built-in OCR.
