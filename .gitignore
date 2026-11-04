@@ -1,0 +1,18 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded on first OCR use (ocr-languages.json pins URL + SHA-256)
+tessdata/
+
+# Conversion outputs and inputs: may contain business data, never commit
+output/
+*.pdf
+*.xlsx
+*.docx
+*.pptx
+
+# Logs
+*.log
+*.err
